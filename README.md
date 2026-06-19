@@ -292,6 +292,7 @@ Check our [Official Roadmap](https://github.com/orgs/google-gemini/projects/11/)
 - **[NPM Package](https://www.npmjs.com/package/@google/gemini-cli)** - Package registry
 - **[GitHub Issues](https://github.com/google-gemini/gemini-cli/issues)** - Report bugs or request features
 - **[Security Advisories](https://github.com/google-gemini/gemini-cli/security/advisories)** - Security updates
+- **[Career Ops](https://career-ops.org/)** - Career resources and opportunities
 
 ### Uninstall
 
